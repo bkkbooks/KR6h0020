@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6h0020/v1
+canonical_location: https://kanripo.org/bkk/KR6h0020/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 讚禮地藏菩薩懺願儀
+  identifiers:
+    alt_id:
+    - X74n1486
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1486.xml
+    old_id: X74n1486
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6h0020_000.yaml, hash: 'sha256:6bcb3947d3278273b4b39b1e909c4f4d9e49c855912c1595505cc778cb1dfe51'}
+  - {seq: 1, filename: KR6h0020_001.yaml, hash: 'sha256:e94bcf5965d7571fc7f4720ba0210f6f4fffe6f486806d1ab8dfd412fc09b2cb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6h0020_001.markers.yaml, hash: 'sha256:f86e54b289a37f0e4cde35c318b5ca28ae507fda7ab979a4c3c66ec66f12c7d3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6h0020_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3538
+  label: 讚禮地藏菩薩懺願儀
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0020_X_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 懺願儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0020_X_001-mulu-2
+    span:
+    - body
+    - 3132
+    - 3132
+  label: 後序
+  type: mulu
+  level: 1
+hash: sha256:79852fbb24cf99448cc3bd9d67a855d74864f60f6485ea6b1ae5ed03f3d1ac05
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

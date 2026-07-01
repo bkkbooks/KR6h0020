@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6h0020/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 讚禮地藏菩薩懺願儀
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1486.xml
+    old_id: X74n1486
+hash: sha256:6bcb3947d3278273b4b39b1e909c4f4d9e49c855912c1595505cc778cb1dfe51
